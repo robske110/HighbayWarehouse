@@ -1,0 +1,22 @@
+TODO-LIST/[JuFoProject__Hochregallager]
+---
+**CRITICAL**
+check why iVal:8 has such a short CHash!
+MAY BE WRONG DEFINITION!!!!!!!!!!!!!!!
+Log:
+main::BootSequence <DEBUG>: iVal:8
+main::BootSequence <DEBUG>: CHash:310
+---
+Rewrite GUI button handler
+(ints) [decrease on use]
+ACHTUNG: muss unbedingt eine bool machen ob beim aktuellen DispManager refresh schon ein buttonClick verarbeitet wird, egal welchen types!
+---
+waitForNextDispManagerTick()
+---
+wFNDT() vor dem letzten boot call implementieren
+---
+displManager cleanUp?
+---
+alles neuschreiben. eig. wirklich nötig
+---
+

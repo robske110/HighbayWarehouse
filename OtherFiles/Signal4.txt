@@ -1,0 +1,85 @@
+  
+
+main::BootSequence <DEBUG>: iVal:1
+main::BootSequence <DEBUG>: CHash:21210
+main::BootSequence <DEBUG>: iVal:2
+main::BootSequence <DEBUG>: CHash:31210
+main::BootSequence <DEBUG>: iVal:3
+main::BootSequence <DEBUG>: CHash:13210
+main::BootSequence <DEBUG>: iVal:4
+main::BootSequence <DEBUG>: CHash:23210
+main::BootSequence <DEBUG>: iVal:5
+main::BootSequence <DEBUG>: CHash:31310
+main::BootSequence <DEBUG>: iVal:6
+main::BootSequence <DEBUG>: CHash:21310
+main::BootSequence <DEBUG>: iVal:7
+main::BootSequence <DEBUG>: CHash:12310
+main::BootSequence <DEBUG>: iVal:8
+main::BootSequence <DEBUG>: CHash:310
+main::BootSequence <DEBUG>: iVal:9
+main::BootSequence <DEBUG>: CHash:12120
+main::BootSequence <DEBUG>: iVal:10
+main::BootSequence <DEBUG>: CHash:32120
+main::BootSequence <DEBUG>: iVal:11
+main::BootSequence <DEBUG>: CHash:13120
+main::BootSequence <DEBUG>: iVal:12
+main::BootSequence <DEBUG>: CHash:23120
+colourListener <DEBUG>: ALL
+colourListener <DEBUG>: RED
+colourListener <DEBUG>: ALL
+colourListener <DEBUG>: BLUE
+colourListener <DEBUG>: ALL
+colourListener <DEBUG>: RED
+colourListener <DEBUG>: ALL
+colourListener <DEBUG>: BLUE
+colourListener <DEBUG>: Colour:1
+colourListener <DEBUG>: Colour:2
+colourListener <DEBUG>: Colour:1
+colourListener <DEBUG>: Colour:2
+cL::parseCBuffer <DEBUG>: CBHash: 21210
+cL::broadcastSignal <INFO>: Signal: 1
+colourListener <DEBUG>: ALL
+colourListener <DEBUG>: RED
+colourListener <DEBUG>: ALL
+colourListener <DEBUG>: BLUE
+colourListener <DEBUG>: ALL
+colourListener <DEBUG>: RED
+colourListener <DEBUG>: ALL
+colourListener <DEBUG>: GREEN
+colourListener <DEBUG>: Colour:1
+colourListener <DEBUG>: Colour:2
+colourListener <DEBUG>: Colour:1
+colourListener <DEBUG>: Colour:3
+cL::parseCBuffer <DEBUG>: CBHash: 31210
+cL::broadcastSignal <INFO>: Signal: 2
+colourListener <DEBUG>: ALL
+colourListener <DEBUG>: RED
+colourListener <DEBUG>: ALL
+colourListener <DEBUG>: BLUE
+colourListener <DEBUG>: ALL
+colourListener <DEBUG>: GREEN
+colourListener <DEBUG>: ALL
+colourListener <DEBUG>: RED
+colourListener <DEBUG>: Colour:1
+colourListener <DEBUG>: Colour:2
+colourListener <DEBUG>: Colour:3
+colourListener <DEBUG>: Colour:1
+cL::parseCBuffer <DEBUG>: CBHash: 13210
+cL::broadcastSignal <INFO>: Signal: 3
+colourListener <DEBUG>: ALL
+colourListener <DEBUG>: ALL
+colourListener <DEBUG>: BLUE
+colourListener <DEBUG>: ALL
+colourListener <DEBUG>: GREEN
+colourListener <DEBUG>: ALL
+colourListener <DEBUG>: BLUE
+colourListener <DEBUG>: ALL
+colourListener <DEBUG>: RED
+colourListener <DEBUG>: Colour:2
+colourListener <DEBUG>: Colour:3
+colourListener <DEBUG>: Colour:2
+colourListener <DEBUG>: Colour:1
+cL::parseCBuffer <DEBUG>: CBHash: 12320
+[ERROR-REPORTER] coulorL::ParseSig <ERROR>: parseCBUnknownSig
+[ERROR-REPORTER] Listing Errors:
+[ERROR-REPORTER] <ERR_1>: GotUnknowValue
